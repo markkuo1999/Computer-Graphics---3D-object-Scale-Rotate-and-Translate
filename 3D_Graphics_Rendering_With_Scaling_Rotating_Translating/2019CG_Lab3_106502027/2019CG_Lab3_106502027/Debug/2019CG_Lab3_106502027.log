@@ -1,0 +1,18 @@
+﻿  Lab3_106502027.cpp
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(74,16): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(571,12): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(453,12): warning C4101: 'k': 未參考的區域變數
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(453,9): warning C4101: 'j': 未參考的區域變數
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(605,17): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(599,9): warning C4101: 'j': 未參考的區域變數
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(629,26): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(629,31): warning C4101: 's': 未參考的區域變數
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(629,28): warning C4101: 'c': 未參考的區域變數
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(672,17): warning C4018: '<': signed/unsigned 不相符
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(675,14): warning C4018: '<': signed/unsigned 不相符
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(765,30): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(766,31): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(769,31): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(769,24): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\markk\Desktop\2019CG_Lab3_106502027\2019CG_Lab3_106502027\Lab3_106502027.cpp(1049,23): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  2019CG_Lab3_106502027.vcxproj -> C:\Users\markk\Desktop\2019CG_Lab3_106502027\Debug\2019CG_Lab3_106502027.exe
